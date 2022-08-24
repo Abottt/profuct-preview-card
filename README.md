@@ -11,7 +11,6 @@ Users should be able to:
 
 ### Screenshot
 
-![](/images/screenshot2.png)
 ![](/images/screenshot1.png)
 
 ### Built with
